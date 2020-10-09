@@ -5,7 +5,7 @@ Hi,
 欢迎来到RWTH计算机类专业资料分享平台。
 目前拥可获取这些资料的同学为RWTH Aachen Computer Science， Sofware System Enegineering, Media Infomatics, Data Science, Computational Social System 专业的本科生/研究生。
 
-因为李旻学长的[Onedrive](https://onedrive.live.com/?authkey=%21ADsYnJMVJyB5rh0&id=9A97C2AE9C965C23%2135673&cid=9A97C2AE9C965C23)共享文件夹里的课件已经没有容量了，所以现在尽可能的把资料移植到GitHub上来保存。
+因为李旻学长的[Onedrive](https://onedrive.live.com/?authkey=%21ADsYnJMVJyB5rh0&id=9A97C2AE9C965C23%2135673&cid=9A97C2AE9C965C23)资料共享文件夹里已经没有多余的容量了，所以现在尽可能的把资料移植到GitHub上来保存。
 
 其他前辈分享的经验以及资料共享的网站：
 <br>
