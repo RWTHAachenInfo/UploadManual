@@ -13,6 +13,8 @@ Hi,
 1. http://s-inf.de/
 1. https://www.infostudium.de/
 
+最后祝大家考试门门1.0，早日毕业
+
 # 上传资料
 
 1. 上传资料时首先查看是否已经存在对应课程的repo。
